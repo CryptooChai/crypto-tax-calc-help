@@ -1,34 +1,61 @@
-# Crypto Tax Calculator for India 🇮🇳
+# 🇮🇳 Crypto Tax Calculator (India)
 
-This is a free tool for calculating crypto taxes under India’s 30% capital gains + 1% TDS regime.
+Welcome to the official project page for the **Crypto Tax Calculator for India** — a 100% free, privacy-first tool that helps you estimate crypto taxes under Indian tax law:
 
-> ⚠️ The actual calculator runs separately — this is just the project page.
+- 📊 **30% Capital Gains Tax** (Section 115BBH)
+- 🧾 **1% TDS on Transfers** (Section 194S)
+- ⛏️ Support for **mining, staking, gifts**, and more
 
-> Website: https://crypto-tax-india.cryptoochai.com/
----
+> ⚠️ **This is not the calculator itself** — it's the official hub for updates, feedback, and documentation.
 
-## 📢 Feature Requests or Issues?
-
-Please [open an issue](https://github.com/CryptooChai/crypto-tax-calc-help/issues) to suggest features or report bugs.
-
----
-
-## 🚧 Roadmap
-
-- 🌍 Support for tax rules in USA, Canada, UK, Australia
-- 🧾 Direct support for CSV files from:
-  - Binance
-  - CoinDCX
-  - Coinbase
-  - etc
-- 📈 Portfolio overview and realized/unrealized gains
+▶️ **Access the tool here**: [crypto-tax-india.cryptoochai.com](https://crypto-tax-india.cryptoochai.com/)
 
 ---
 
-## 🔒 Privacy Note
+## 📢 Got Feedback or Feature Ideas?
 
-Your financial data stays in your browser. We don’t store or transmit anything.
+Help us improve!  
+[Open an issue on GitHub](https://github.com/CryptooChai/crypto-tax-calc-help/issues) to suggest a feature or report a bug.
 
 ---
 
-## 👨‍💻 Built by [CryptooChai](https://www.youtube.com/@CryptooChai)
+## 🚧 Roadmap — Coming Soon
+
+We're actively working on expanding the tool to serve more users globally. Here's what’s ahead:
+
+### 🌍 Multi-Country Support
+- 🇺🇸 United States (IRS rules, short/long-term gains)
+- 🇨🇦 Canada (CRA capital gains rules)
+- 🇦🇺 Australia (ATO guidelines)
+- 🇬🇧 United Kingdom (HMRC framework)
+
+### 🔄 Exchange-Specific CSV Support
+- Binance
+- CoinDCX
+- Coinbase
+- CoinSwitch
+- More coming soon...
+
+### 📈 Other Features
+- Portfolio snapshots (realized/unrealized gains)
+- Historical price fetching
+- Enhanced PDF and CSV reports
+- Mobile-first UI improvements
+
+---
+
+## 🔒 Privacy First
+
+We value your privacy. All calculations run entirely **in your browser**.  
+🚫 No data is uploaded, stored, or shared.
+
+---
+
+## 👨‍💻 About the Creator
+
+Built with ❤️ by [CryptooChai](https://www.youtube.com/@CryptooChai)  
+Follow for updates, explainers, and walkthroughs!
+
+---
+
+*Disclaimer: This tool is for informational purposes only and does not constitute legal or financial advice. Always consult a qualified tax professional for your situation.*
