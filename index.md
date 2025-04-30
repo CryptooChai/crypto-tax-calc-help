@@ -13,6 +13,18 @@ Please [open an issue](https://github.com/CryptooChai/crypto-tax-calc-help/issue
 
 ---
 
+## 🚧 Roadmap
+
+- 🌍 Support for tax rules in USA, Canada, UK, Australia
+- 🧾 Direct support for CSV files from:
+  - Binance
+  - CoinDCX
+  - Coinbase
+  - etc
+- 📈 Portfolio overview and realized/unrealized gains
+
+---
+
 ## 🔒 Privacy Note
 
 Your financial data stays in your browser. We don’t store or transmit anything.
