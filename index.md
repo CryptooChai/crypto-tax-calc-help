@@ -53,8 +53,11 @@ We value your privacy. All calculations run entirely **in your browser**.
 
 ## 👨‍💻 About the Creator
 
-Built with ❤️ by [CryptooChai](https://www.youtube.com/@CryptooChai)  
-Follow for updates, explainers, and walkthroughs!
+Built with ❤️ by [CryptooChai](https://www.youtube.com/@CryptooChai?sub_confirmation=1)  
+
+### 🌐 Follow Us:
+[YouTube](https://www.youtube.com/@CryptooChai?sub_confirmation=1) | [Twitter (X)](https://x.com/CryptooChai) | [Telegram](https://t.me/CryptooChai) | [Instagram](https://instagram.com/cryptoochaii) | [GitHub](https://github.com/CryptooChai)
+
 
 ---
 
