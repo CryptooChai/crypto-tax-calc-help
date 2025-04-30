@@ -1,3 +1,5 @@
+[Home](index.md) | [User Guide](user-guide.html)
+
 # 🧾 Crypto Tax Calculator – User Guide
 
 Welcome! This guide will walk you through using the Crypto Tax Calculator effectively — from entering transactions to downloading your tax report.
