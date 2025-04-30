@@ -1,6 +1,3 @@
----
-title: "Crypto Tax Calculator"
----
 [Home](index.md) | [User Guide](user-guide.html)
 
 
