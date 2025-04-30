@@ -1,7 +1,7 @@
 ---
 title: "Crypto Tax Calculator"
 ---
-[Home](index.md) | [User Guide](user-guide.html) | [Tax Rules](tax-rules.html)
+[Home](index.md) | [User Guide](user-guide.html)
 
 
 # 🇮🇳 Crypto Tax Calculator (India)
