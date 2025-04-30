@@ -1,3 +1,7 @@
+---
+title: "Crypto Tax Calculator"
+---
+
 # 🇮🇳 Crypto Tax Calculator (India)
 
 Welcome to the official project page for the **Crypto Tax Calculator for India** — a 100% free, privacy-first tool that helps you estimate crypto taxes under Indian tax law:
